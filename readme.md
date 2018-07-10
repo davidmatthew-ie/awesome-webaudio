@@ -96,9 +96,12 @@ Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pull
 - [Web Audio Basics](https://github.com/kylestetz/Web-Audio-Basics) - A growing set of light code samples with CodePen links for each.
 - [Web Audio Perf](https://padenot.github.io/web-audio-perf/) - Performance of various AudioNodes and strategies for efficient resource usage (from WAC2016).
 - [Percussion Synthesis Using Web Audio](https://github.com/irritant/WAC-2016-Tutorial) - This tutorial will introduce the basics of web audio programming by writing code to synthesize simple percussion sounds (from WAC2016).
+- [Samples | webaudioapi.com](https://webaudioapi.com/samples/) - A number of useful examples demonstrating various uses of the Web Audio API, including spatialized sound, visualizations and procedural audio. It is the companion website of the Web Audio API book (below).
 
 ### Books
 - [JavaScript for Sound Artists](https://www.crcpress.com/JavaScript-for-Sound-Artists-Learn-to-Code-with-the-Web-Audio-API/Turner-Leonard/p/book/9781138961531) - A bottom up JavaScript / DOM course using Web Audio for all the examples.
+- [Web Audio API](https://webaudioapi.com/book/) - An introductory book on the Web Audio API by Google's Boris Smus, intended for developers of games and interactive apps.
+
 ### Newsletters
 - [Web Audio Weekly Newsletter](http://www.webaudioweekly.com) - A weekly review of what's happening in Web Audio.
 
